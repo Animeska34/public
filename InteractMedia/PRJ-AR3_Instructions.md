@@ -31,8 +31,10 @@
 ### 4. Dežučio paruošimas
 
 1. Atsijungti dežutės nuo serverio (PC) (Jeigu įjungti) (Jungiamas į serverio priekinė USB (ilgas laidas))
-2. H2 O2 dėžutėje pasukti į kairę iki galo.
-3. Prisijungti dėžutes atgal prie serverio
+2. H2 O2 dėžutė atsukti į kairę iki galo ir patikrinti ar migtukas atspaustas.
+3. Patikrinti ar migtukas atspaustas ant Gęsinimo sistemos
+4. Nustatyti blogą konfigūraciją minų medžiojimo dežutėje
+5. Prisijungti dėžutes atgal prie serverio
 
 ## Po kiekvieno žaidimo
 
@@ -82,18 +84,23 @@
 ### VR žaidimas negalį prisijungti prie serverio
 
 1. Perkrauti aplikaciją, arba šalmą _(žr. daugiau **VR Paruošimas** skyriūje)_
-2. Patikrinti, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
-3. Patikrinti, ar serveris (PC) ijungtas ir aplikaciją veikia
-4. Perkrauti Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
-5. Praleisti žaidimą su **S** _(žr. daugiau **Scena 6** skyriūje)_
+2. Jeigu vis neveikia, Patikrinti, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
+3. Jeigu vis neveikia, Patikrinti, ar serveris (PC) ijungtas ir aplikaciją veikia
+4. Jeigu vis neveikia, Perkrauti Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
+5. Jeigu vis neveikia, Praleisti žaidimą su **S** _(žr. daugiau **Scena 6** skyriūje)_
 
 ### Planšetė negalį prisijungti prie serverio
 
 1. Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
-2. Patikrinti, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
-3. Patikrinti, ar serveris _(PC)_ ijungtas ir aplikaciją veikia
-4. Perkrauti Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
+2. Jeigu vis neveikia, Patikrinti, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
+3. Jeigu vis neveikia, Patikrinti, ar serveris _(PC)_ ijungtas ir aplikaciją veikia
+4. Jeigu vis neveikia, Perkrauti Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
 
 ### Planšetė rodo juodą ekraną
 
-1. Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
+Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
+### Garsas eina ne iš TV Garsiakalbiu
+1. Su įjungtu žaidimu paspausti **WIN+G**.
+2. Atidaryti audio nustatymus, paspaudus migtuką su garsiakalbiu (jeigu jis ne atidarytas).
+3. **MIX** tabe, **WINDOWS DEFAULT OUTPUT** parametrą nustatyti į **LG TV SSCR2 (NVIDIA High Defenition Audio)**
+4. Paspausti **WIN+G**, kad uždaryti langą.
