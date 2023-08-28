@@ -15,7 +15,7 @@
 ### 1. Serverio _(PC)_ paruošimas
 
 1. Išjungti PRJ-AR3.exe _(ALT+F4)(Jeigu jis yra įjungtas)_
-2. Paleisti PRJ-AR3*XX/PRJ-AR3.exe *(Folderis ant desktopo. Vietoj XX bus numeris. Jeigu folderiu keleta, jungti reikia tą, kur numeris didesnis.)
+2. Paleisti PRJ-AR3*XX/PRJ-AR3.exe _(Folderis ant desktopo. Vietoj XX bus numeris. Jeigu folderiu keleta, jungti reikia tą, kur numeris didesnis.)_
 
 ### 2. RC _(Planšetės)_ paruošimas
 
