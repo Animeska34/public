@@ -6,7 +6,7 @@
 
 1. Įjungti TV su pulteliu _(Raudonas migtukas)_
 2. Įjungti PC _(Migtukas ant korpuso)_
-3. Jeigu ne pasirode juodas ekranas su užrašais, reikia paspausti F1
+3. Jeigu pasirodė juodas ekranas su užrašais, reikia paspausti F1
 4. Plaukti, kol OS įsijungs.
 5. Įjungti projektorį _(Migtukas prie indikatoriu)_
 
@@ -88,7 +88,7 @@
 1. Perkraukite aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
 2. Patikrinkite, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
 3. Patikrinkite, ar serveris _(PC)_ ijungtas ir aplikaciją veikia
-4. Perkraukite Serverį _(PC App)_ _(žr. daugiau **Serverio (PC)\_Paruošimas** skyriūje)_
+4. Perkraukite Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
 
 ### Planšetė rodo juodą ekraną
 
