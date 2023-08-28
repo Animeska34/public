@@ -42,6 +42,12 @@
 2. Įšjungti aplikacijas visur _(PC, VR, Planšete)_ ir atsijungti dežutės nuo PC
 3. Įšjungti PC _(numatytinai, nebūtinai)_
 
+## Serverio _(PC)_ išjungimo procedūrą
+1. Jeigu žaidimas įjungtas - išjungti _(ALT+F4)_
+2. Ant desktopo paspausti **ALT+F4** ir išsirinkti "Išjungti" ("Shootdown")
+3. Išjungti TV ektaną su pulteliu _(Raudonas migtukas)_
+4.  Išjungti projektorį _(Migtukas prie indikatorių)_
+
 ## Žaidimo kodai ir atsarginiai serverio komandos
 
 ### Scena 1: _Autentifikacija_
