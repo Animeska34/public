@@ -1,8 +1,6 @@
 # Žaidimo Instrukciją Organizatoriams
 
-## Pirmas įjungimas
-
-### Serverio _(PC)_ įjungimo procedūrą
+## Serverio _(PC)_ įjungimo procedūrą
 
 1. Įjungti TV su pulteliu _(Raudonas migtukas)_
 2. Įjungti PC _(Migtukas ant korpuso)_
