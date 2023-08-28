@@ -89,11 +89,11 @@
 
 ### Planšetė negalį prisijungti prie serverio
 
-1. Perkraukite aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
-2. Patikrinkite, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
-3. Patikrinkite, ar serveris _(PC)_ ijungtas ir aplikaciją veikia
-4. Perkraukite Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
+1. Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
+2. Patikrinti, ar įjungtas WI-FI ir prisijungtas prie **Xiaomi_6375** tinklo
+3. Patikrinti, ar serveris _(PC)_ ijungtas ir aplikaciją veikia
+4. Perkrauti Serverį _(PC App)_ _(žr. daugiau **Serverio (PC) Paruošimas** skyriūje)_
 
 ### Planšetė rodo juodą ekraną
 
-1. Perkraukite aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
+1. Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
