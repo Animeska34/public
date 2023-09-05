@@ -9,7 +9,7 @@
 5. Plaukti, kol OS įsijungs.
 6. Įjungti _Discord_
 7. Prisijungti prie _Phone_ kanalo _M-52 "Sudūvis" Edukacinis Kambarys_ serveryje
-8. Discorde įsitikintis, kad _Input Device_ ir _Output Device_ _Voice & Video_ parametruose nustatytas į _Realtek High Definition audio_
+8. Discorde įsitikintis, kad _Input Device_ nustatytas į _Microphone (4- High Definition Audio Device)_ ir _Output Device_ nustatytas į _Speakers (4- High Definition Audio Device)_. _Voice & Video_ parametruose nustatytas į _Realtek High Definition audio_
 9. Prisijungtis prie _Phone_ kanalo iš laptopo (ar kokiu nors kito įrengenio, kuris bus nauduojamas su žaidejais kalbėti)
 
 ## Prieš kiekvieną žaidimą
