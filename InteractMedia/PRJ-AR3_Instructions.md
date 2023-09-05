@@ -3,17 +3,21 @@
 ## Serverio _(PC)_ įjungimo procedūrą
 
 1. Įjungti TV su pulteliu _(Raudonas migtukas)_
-2. Įjungti PC _(Migtukas ant korpuso)_
-3. Jeigu pasirodė juodas ekranas su užrašais, reikia paspausti F1
-4. Plaukti, kol OS įsijungs.
-5. Įjungti projektorį _(Migtukas prie indikatoriu)_
+2. Įjungti projektorį _(Migtukas prie indikatoriu)_
+3. Įjungti PC _(Migtukas ant korpuso)_
+4. Jeigu pasirodė juodas ekranas su užrašais, reikia paspausti F1
+5. Plaukti, kol OS įsijungs.
+6. Įjungti _Discord_
+7. Prisijungti prie _Phone_ kanalo _M-52 "Sudūvis" Edukacinis Kambarys_ serveryje
+8. Discorde įsitikintis, kad _Input Device_ ir _Output Device_ _Voice & Video_ parametruose nustatytas į _Realtek High Definition audio_
+9. Prisijungtis prie _Phone_ kanalo iš laptopo (ar kokiu nors kito įrengenio, kuris bus nauduojamas su žaidejais kalbėti)
 
 ## Prieš kiekvieną žaidimą
 
 ### 1. Serverio _(PC)_ paruošimas
 
 1. Išjungti PRJ-AR3.exe _(ALT+F4)(Jeigu jis yra įjungtas)_
-2. Paleisti PRJ-AR3\_XX/PRJ-AR3.exe _(Folderis ant desktopo. Vietoj XX bus numeris. Jeigu folderiu keleta, jungti reikia tą, kur numeris didesnis.)_
+2. Paleisti PRJ-AR3*XX/PRJ-AR3.exe *(Folderis ant desktopo. Vietoj XX bus numeris. Jeigu folderiu keleta, jungti reikia tą, kur numeris didesnis.)\_
 
 ### 2. RC _(Planšetės)_ paruošimas
 
@@ -24,7 +28,7 @@
 ### 3. VR _(Šalmo)_ paruošimas
 
 1. Įsitikintis, kad VR pilnai įkrautas.
-2. Pilnai išjungti PRJ-AR3. _(Galima pilnai perkrauti šalmą (Laikyti migtuką ant šono, kol išsijungs (apie 10s) ir paskui vėl įjungti su tuo pačių miguku.) Arba paspausti migtuką so ovalų ant kairinio kontrolerio, ir su triggeriu paspausti "Quit" migtuką. Jeigu žaidimas įjungtas)_.
+2. Pilnai išjungti PRJ-AR3. Paspausti migtuką so ovalų ant kairinio kontrolerio, ir su triggeriu paspausti "Quit" migtuką. Jeigu žaidimas įjungtas. (žr. _"VR žaidimo perkrovimas" "Instrukcijas su paveikslais"_ skyriuje )
 3. Įjungti žaidimą _(su kontroleriu atidaryti meniu (devini kvadratai ant paneles), su triggeriu paspausti "Search", kur filtrai įšsirinkti "Unknown sources", jeig neišsirinkti, ir paspausti ant PRJ-AR3, žaidimas turį įsijungti)_
 4. Padėti VR į spintelė, kuriame žaidėjai turį jį rasti.
 
@@ -43,10 +47,11 @@
 3. Įšjungti PC _(numatytinai, nebūtinai)_
 
 ## Serverio _(PC)_ išjungimo procedūrą
+
 1. Jeigu žaidimas įjungtas - išjungti _(ALT+F4)_
 2. Ant desktopo paspausti **ALT+F4** ir išsirinkti "Išjungti" ("Shootdown")
 3. Išjungti TV ektaną su pulteliu _(Raudonas migtukas)_
-4.  Išjungti projektorį _(Migtukas prie indikatorių)_
+4. Išjungti projektorį _(Migtukas prie indikatorių)_
 
 ## Žaidimo kodai ir atsarginiai serverio komandos
 
@@ -99,8 +104,28 @@
 ### Planšetė rodo juodą ekraną
 
 Perkrauti aplikaciją. _(žr. daugiau **RC (Planšetės) Paruošimas** skyriūje)_
+
 ### Garsas eina ne iš TV Garsiakalbiu
+
 1. Su įjungtu žaidimu paspausti **WIN+G**.
 2. Atidaryti audio nustatymus, paspaudus migtuką su garsiakalbiu (jeigu jis ne atidarytas).
 3. **MIX** tabe, **WINDOWS DEFAULT OUTPUT** parametrą nustatyti į **LG TV SSCR2 (NVIDIA High Defenition Audio)**
 4. Paspausti **WIN+G**, kad uždaryti langą.
+
+## Instrukcijas su paveikslais
+
+### VR žaidimo perkrovimas
+
+![VR-Guide_1](images/VR-Guide_1.jpg)
+
+![VR-Guide_2](images/VR-Guide_2.png)
+
+![VR-Guide_3](images/VR-Guide_3.png)
+
+![VR-Guide_4](images/VR-Guide_4.png)
+
+![VR-Guide_5](images/VR-Guide_5.png)
+
+![VR-Guide_6](images/VR-Guide_6.png)
+
+![VR-Guide_7](images/VR-Guide_7.png)
