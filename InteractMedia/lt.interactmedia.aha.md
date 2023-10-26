@@ -26,4 +26,4 @@ We reserve the right to modify or update this Privacy Policy at any time. If we 
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at: [a34contact@gmail.com](mailto:).
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at: [info@interactmedia.lt](mailto:info@interactmedia.lt).
