@@ -79,7 +79,7 @@
 - **E** - Emituoti neteisingą minų medžiojimo dėžutes reakciją _(Paspausti migtuką ant klaviatūros prisijungtos prie serverio(Veiks tik paskui 1 akustikos animacijos))_
 
 ### Scena 6: _VR Žaidimas_
-
+- **A** - Praleisti kortėlių skenavimą
 - **G** - Emituoti teisingą H2 O2 dėžutes reakciją _(Paspausti migtuką ant klaviatūros prisijungtos prie serverio)_
 - **F** - Emituoti neteisingą H2 O2 dėžutes reakciją _(Paspausti migtuką ant klaviatūros prisijungtos prie serverio)_
 - **S** - Praleisti VR žaidimą _(Paspausti migtuką ant klaviatūros prisijungtos prie serverio)_
