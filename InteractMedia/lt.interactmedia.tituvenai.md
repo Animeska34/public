@@ -1,4 +1,4 @@
-# **Privacy Policy for "AHA Break Repeat"**
+# **Privacy Policy for "Tytuvėnų ansamblis 3D"**
 
 This Privacy Policy describes how "InteractMedia" collects, uses, and shares information from players of our Unity game "Tytuvėnų ansamblis 3D". By downloading or playing our game, you agree to the terms of this Privacy Policy.
 
